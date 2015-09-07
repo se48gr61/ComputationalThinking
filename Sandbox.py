@@ -14,4 +14,15 @@ pos = letters.find("F")
 print(pos)
 
 
+myString = "ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+
+num = input("Type a number")
+print(myString[1])
+
+num = int(num)+1
+char = myString [num]
+
+print(char)
+
+
 
