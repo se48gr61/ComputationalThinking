@@ -13,3 +13,4 @@ for letter in userInput:
 
 print("Vowels: " + displayVowels)
 print("Consonants: " + displayConsonants)
+
