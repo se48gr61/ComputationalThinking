@@ -1,4 +1,4 @@
-userInput = input("Enter your Sentence: ")
+userInput = input("Enter your Sentence: ").upper()
 translated = ""
 i = len(userInput)-1
 
