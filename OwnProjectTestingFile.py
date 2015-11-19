@@ -23,6 +23,17 @@ from datetime import datetime
 now = datetime.now()
 
 print('%s/%s/%s %s:%s:%s' % (now.month, now.day, now.year, now.hour, now.minute, now.second))
+name = input("What's your name? ")
+
+if name == "Sergius":
+    print("{} is a lumberjack and he's Ok!".format(name)).lower
+else:
+    print("{} Sleep's all night and {} work's all day".format(name, name)).upper
+
+message = input("Hello Sir/Ma'am, please enter if you want to decrypt or encrypt oh and don't forget to choose your text!")
+
+
+
 
 
 
