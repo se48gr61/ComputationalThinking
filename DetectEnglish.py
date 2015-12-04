@@ -12,4 +12,6 @@ def loadDictionary():
 
 englishwords = loadDictionary()
 
-input("\nPress the enter key to exit!")
+
+
+

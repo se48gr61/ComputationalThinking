@@ -6,14 +6,3 @@ while i >= 0:
     translated += userInput[i]
     i-=1
 print(translated)
-
-
-
-
-
-
-
-
-
-
-
